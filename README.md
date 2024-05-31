@@ -14,5 +14,5 @@ if (!("remotes" %in% rownames(installed.packages()))) {
                    repos = "https://cloud.r-project.org/")
 }
 
-remotes::install_gitlab(repo = "salim_b/r/pkgs/pkgdown.tpl")
+remotes::install_gitlab(repo = "rpkg.dev/pkgdown.tpl")
 ```
