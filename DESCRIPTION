@@ -1,0 +1,14 @@
+Package: pkgdown.tpl
+Title: rpkg.dev pkgdown Template
+Version: 0.0.9000
+Authors@R: 
+    person("Salim", "Brüggemann", , "salim-b@pm.me", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5329-5987"))
+Description: A pkgdown template package for rpkg.dev.
+License: AGPL (>= 3)
+URL: https://gitlab.com/salim_b/r/pkgs/pkgdown.tpl
+BugReports: https://gitlab.com/salim_b/r/pkgs/pkgdown.tpl/issues
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1.9000
