@@ -9,7 +9,7 @@ License: AGPL (>= 3)
 URL: https://gitlab.com/rpkg.dev/pkgdown.tpl
 BugReports: https://gitlab.com/rpkg.dev/pkgdown.tpl/issues
 Suggests: 
-    pkgdown (>= 2.0.9.9000)
+    pkgdown (>= 2.1.1)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
