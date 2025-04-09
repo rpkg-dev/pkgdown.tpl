@@ -2,7 +2,7 @@ Package: pkgdown.tpl
 Title: rpkg.dev pkgdown Template
 Version: 0.0.9000
 Authors@R: 
-    person("Salim", "Brüggemann", , "salim-b@pm.me", role = c("aut", "cre"),
+    person("Salim", "Brüggemann", , "salim@rpkg.dev", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-5329-5987"))
 Description: A pkgdown template package for rpkg.dev.
 License: AGPL (>= 3)
